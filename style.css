@@ -1,1 +1,11 @@
 ﻿style.css
+
+h1 {
+  color:blue;
+  font-size:8vw;
+  text-transform: capitalize;
+}
+
+.special {
+  color:green;
+}
